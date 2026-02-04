@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:mBuschauer/Moonslayers-Notes.git
